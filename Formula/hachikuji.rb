@@ -7,12 +7,12 @@ class Hachikuji < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/glpecile/hachikuji/releases/download/v1.1.0/hachikuji-1.1.0-aarch64-apple-darwin.tar.gz"
-      sha256 "1b3705ce5eed7e17e84c1d60b17b76bdf89d344341b1db05b81fa91c6075c384"
+      url "https://github.com/glpecile/hachikuji/releases/download/v1.1.1/hachikuji-1.1.1-aarch64-apple-darwin.tar.gz"
+      sha256 "a5f6d3edfe3b9aa4c30cd241c7baf716020445edd882db5a53fcf0e530dec54c"
     end
     on_intel do
-      url "https://github.com/glpecile/hachikuji/releases/download/v1.1.0/hachikuji-1.1.0-x86_64-apple-darwin.tar.gz"
-      sha256 "6d8e7d844e07cb46969872ad8407772d3a0748aa5b4d83625abd5d78467835f8"
+      url "https://github.com/glpecile/hachikuji/releases/download/v1.1.1/hachikuji-1.1.1-x86_64-apple-darwin.tar.gz"
+      sha256 "68bc564ba3cca8185a5aeb3890d5a15fd8fcaa52f7951e0355120fd6135fcfab"
     end
   end
 
